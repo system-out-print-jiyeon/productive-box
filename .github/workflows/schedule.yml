@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: https://gist.github.com/system-out-print-jiyeon/5f001b9ce32ae049a46e6c60adeda5cb
+          GIST_ID: 5f001b9ce32ae049a46e6c60adeda5cb
           TIMEZONE: Asia/Seoul
